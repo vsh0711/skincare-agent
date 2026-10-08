@@ -6,6 +6,14 @@ An AI-powered skincare advisor for Indian skin built on **Microsoft Agent Framew
 
 ---
 
+## Conversation Demo
+
+![Glow conversation — dark circles query, product recommendations from Azure AI Search KB](assets/playground-conversation.jpg)
+
+*Stage 2 — Glow gathers the skin profile conversationally (no numbered Q&A), then retrieves matched products from the Azure AI Search knowledge base via MCP.*
+
+---
+
 ## Architecture
 
 ```
